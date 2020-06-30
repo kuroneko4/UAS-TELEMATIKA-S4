@@ -5,9 +5,9 @@
 
 int main() {  
 int x,y,z; 
- 	printf("masukan kata-kata:  ");  
+ 	printf("Ecoding NRZ Key:  ");  
  char str[100];  gets(str);  
- 	printf("\nhasil binner: ", str);  
+ 	printf("\nbinner: ", str);  
  
  for(x=0;str[x]!='\0';x++){   
  z=str[x];   
